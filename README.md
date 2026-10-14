@@ -1,2 +1,2 @@
 # printclr
-Simple print color function for Python
+Simple print color package for Python
