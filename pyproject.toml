@@ -4,13 +4,13 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "printclr"
-version = "1.0.0"
+version = "1.0.1"
 authors = [
   { name="Plum", email="plumlulz@protonmail.com" },
 ]
 description = "Simple print color package."
 readme = "README.md"
-requires-python = ">=3.9"
+requires-python = ">=3.6"
 classifiers = [
     "Programming Language :: Python :: 3",
     "Operating System :: OS Independent",
