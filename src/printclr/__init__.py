@@ -1,1 +1,1 @@
-
+from .printclr import printclr, printclr_testall
